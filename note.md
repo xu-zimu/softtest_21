@@ -158,8 +158,6 @@ for(i=0;i<5;i++)
 
 要添加图像,请在链接的前面添加感叹号(!),然后在括号中添加替代文本，并在括号中添加图像资源的路径或者URL。可选择在括号中的URL后添加标题
 
-![表格图片](C:\Users\28322\Desktop\总\mdnotes\Snipaste_2024-02-11_16-46-00.png "chart image")
-
 
 
 **表格**
@@ -172,15 +170,11 @@ for(i=0;i<5;i++)
 
 |单元格|单元格|
 
-![对齐方式](C:\Users\28322\Desktop\总\mdnotes\Snipaste_2024-02-11_16-46-00.png "chart image")
-
 
 
 __转义字符__
 
 可以转义的字符
-
-![可以转义的字符](C:\Users\28322\Desktop\总\mdnotes\Snipaste_2024-02-11_16-49-59.png)
 
 
 
